@@ -59,27 +59,27 @@ This project is about create website for intermediate individual assignment of R
 1. Visit domain registration services Niagahoster, buy .site domain
 2. Login on Cloudflare, add site where you buy from Niagahoster
     <br><br>
-    <img src="https://i.imgur.com/Hb7AhBu.jpg" alt="Picture of add site on Cloudflare" width="35%">
+    <img src="https://i.imgur.com/Hb7AhBu.jpg" alt="Picture of add site on Cloudflare">
     <br><br>
 3. Select Free service, then add DNS
 4. Update nameservers on Niagahoster with nameservers from Cloudflare
     <br><br>
-    <img src="https://i.imgur.com/VMYNNfY.jpg" alt="Picture of Cloudflare's nameservers" width="35%">
+    <img src="https://i.imgur.com/VMYNNfY.jpg" alt="Picture of Cloudflare's nameservers">
     <br><br>
-    <img src="https://i.imgur.com/mWWkm90.jpg" alt="Picture of copy nameservers from Cloudflare to Niagahoster" width="35%">
+    <img src="https://i.imgur.com/mWWkm90.jpg" alt="Picture of copy nameservers from Cloudflare to Niagahoster">
     <br><br>
 5. Configure domain setting 
 6. Check nameservers and wait for update
 7. Then you can select tab DNS > Records for add DNS
     <br><br>
-    <img src="https://i.imgur.com/SYahX94.jpg" alt="Picture of add DNS records" width="35%">
+    <img src="https://i.imgur.com/SYahX94.jpg" alt="Picture of add DNS records">
     <br><br>
-    <img src="https://i.imgur.com/pAjnEka.jpg" alt="Picture of DNS records" width="35%">
+    <img src="https://i.imgur.com/pAjnEka.jpg" alt="Picture of DNS records">
     <br><br>
 8. Login on Netlify, choose Domain Settings and copy your Netlify Subdomain to DNS Target on Cloudflare
 9. On Netlify select site > Domain Setting and add domain
     <br><br>
-    <img src="https://i.imgur.com/CqZMpE4.jpg" alt="Picture of DNS records" width="35%">
+    <img src="https://i.imgur.com/CqZMpE4.jpg" alt="Picture of DNS records">
     <br><br>
 10. Finish, you can wait the process and check your domain
  
